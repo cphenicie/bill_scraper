@@ -2,7 +2,8 @@
 
 A tool to aggregate information between a series of bills.
 
-For now, the main use is figuring out which Congresspeople sponsor, or co-sponsor the bills in the list the most.
+For now, it takes a list of URLs, and then returns a list of Congresspeople that (co-)sponsored the bills, sorted by how many bills they sponosored
+This output both into the terminal and into the file `results.csv`  
 
 To use this code, you'll need to get an API key here: https://api.congress.gov/sign-up/
 
