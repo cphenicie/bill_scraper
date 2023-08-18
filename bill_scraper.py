@@ -29,7 +29,7 @@ sponsors = []
 original_cosponsors = []
 later_cosponsors = []
 
-for bill_url in bill_urls[:2]:
+for bill_url in bill_urls[:]:
     url_parts = bill_url.split('/')
     congress_string = url_parts[4]
     billType_string = url_parts[5]
