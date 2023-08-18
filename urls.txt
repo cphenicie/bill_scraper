@@ -1,0 +1,4 @@
+https://www.congress.gov/bill/118th-congress/house-bill/4704/cosponsors?s=7&r=2&q=%7B%22search%22%3A%5B%22Anna+Eshoo%22%5D%7D
+https://www.congress.gov/bill/118th-congress/house-resolution/649?q=%7B%22search%22%3A%5B%22Artificial+Intelligence%22%5D%7D&s=9&r=1
+https://www.congress.gov/bill/118th-congress/senate-bill/2502?q=%7B%22search%22%3A%5B%22Artificial+Intelligence%22%5D%7D&s=9&r=5
+https://www.congress.gov/bill/118th-congress/house-bill/3249/cosponsors?s=7&r=53&q=%7B%22search%22%3A%5B%22Anna+Eshoo%22%5D%7D
